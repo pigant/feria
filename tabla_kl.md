@@ -7,25 +7,33 @@ Se usó el modo Semi encajado dado su nivel de complejidad medio-alto.
 ## esfuerzo requerdio por el proyecto, personas necesarias por mes
 
 E= a(kloc)^b
+
 E = 3.0(9600)^1.12
+
 E = 87 persona/mes
 
 ## tiempo requerido para desarrollar el proyectoi, en meses
 
 Tdev = c(E)^b
+
 Tdev = 2.50(87)^0.35
+
 Tdev = 12 meses
 
 ## número de personas necesarias para desarrollar el proyecto
 
 P = E/Tdev
+
 P = 82/12
+
 P = 7 personas
 
 ##Costo total del proyecto
 
 CosteE = P * salario medio entre analistas y programadores
+
 CosteE = 7 * 600.000
+
 CosteE = 4.200.000.-
 
 ## cantidad total líneas de código (kloc)
