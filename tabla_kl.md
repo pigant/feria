@@ -28,7 +28,7 @@ P = 82/12
 
 P = 7 personas
 
-##Costo total del proyecto
+## Costo total del proyecto
 
 CosteE = P * salario medio entre analistas y programadores
 
