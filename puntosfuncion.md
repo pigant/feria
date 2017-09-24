@@ -8,6 +8,8 @@
 ## Entradas externas
 
 Para las entradas del sistema.
+
+Caso de uso          |Entradas
 ---------------------|----------
 [Pedido] generar     |
 [Pedido] calificar   |
