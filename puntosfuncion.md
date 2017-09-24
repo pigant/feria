@@ -2,7 +2,7 @@
 
 ## Caso de uso del sistema
 
-![Feria Uml](/feria.png)
+![Feria Uml](/imagenes/feria_casos_de_uso.png)
 
 
 ## Entradas externas
