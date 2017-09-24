@@ -1,26 +1,28 @@
+# Estimación costes de desarrollo usando cocomo
+
 Caso de Uso | Kloc
 ----------- | ------------
-generar     |  500
-reporte     |  500
-pedido      |  500
-ver         |  500
-estado      |  500
-abierto     |  500
-pausa       |  500
-cerrado     |  500
-anulado     |  500
-pedido      |  500
-generar     |  700
-calificar   |  600
-ficha usuario |  500
-direccion   | 300
-celular     | 300
-mantenedor  | 700
-puesto      | 300
-producto    | 300
-precio      | 300
-nombre      | 300
-cantidad    | 300
+[generar]      |  500
+[generar] reporte     |  500
+[generar] pedido      |  500
+[pedido] ver         |  500
+[ver] estado      |  500
+[ver] abierto     |  500
+[ver] pausa       |  500
+[ver] cerrado     |  500
+[ver] cancelar     |  500
+[pedido]      |  500
+[pedido] generar     |  700
+[pedido] calificar   |  600
+[ficha usuario] |  500
+[ficha usuario] direccion   | 300
+[ficha usuario] celular     | 300
+[mantenedor] | 700
+[pedido] puesto      | 300
+[pedido] producto    | 300
+[pedido] precio      | 300
+[pedido] nombre      | 300
+[pedido] cantidad    | 300
 
 Cantidad total casos de uso | cantidad total Kloc
 --------------------------- | -------------------
