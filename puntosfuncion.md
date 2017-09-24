@@ -7,4 +7,21 @@
 
 ## Entradas externas
 
-Para las entradas del sistema
+Para las entradas del sistema.
+---------------------|----------
+[Pedido] generar     |
+[Pedido] calificar   |
+
+
+
+## Salidas externas
+
+## Consultas
+
+## Archivos lógicos internos
+
+## Archivos de interfaz externa
+
+## Caracteristicas generales del sistema
+
+
