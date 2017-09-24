@@ -23,4 +23,5 @@ nombre      | 300
 cantidad    | 300
 
 Cantidad total casos de uso | cantidad total Kloc
+--------------------------- | -------------------
 21             | 9600
