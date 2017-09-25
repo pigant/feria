@@ -5,34 +5,59 @@
 ![Feria Uml](/imagenes/feria_casos_de_uso.png)
 
 
-* [pedido] ver : Muestra lista de pedidos, se selecciona una, muestra información y permite anular`
+* [pedido] ver : Muestra lista de pedidos, se selecciona una, muestra información y permite anular
 
-* `[pedido] generar : muestra los puestos -> abre un puesto -> busca producto -> agrega a la lista -> quita de la lista -> confirma`
+* [pedido] generar : muestra los puestos -> abre un puesto -> busca producto -> agrega a la lista -> quita de la lista -> confirma
 
-* `[pedido] calificar : muestra pedidos -> abre un pedido -> comenta -> califica`
+* [pedido] calificar : muestra pedidos -> abre un pedido -> comenta -> califica
 
-* `[ficha usuario] dirección : entra en perfil -> entra en modificar -> cambia nombre usuario -> cambia dirección -> confirma`
+* [ficha usuario] dirección : entra en perfil -> entra en modificar -> cambia nombre usuario -> cambia dirección -> confirma
 
-* _[mantenedor]  : Nombre del puesto, número de telefono`
+* [mantenedor] puesto : Nombre del puesto, número de telefono
 
 ## Entradas externas
 
 Para las entradas del sistema.
 
-Caso de uso                   |Entradas |Tipo de dato elemental
-------------------------------|---------|----------------------
-[pedido] ver                  |0        |0
-[Pedido] generar              |6        |6
-[Pedido] calificar            |2        |2
-[ficha usuario] direccion     |2        |2
-[ficha usuario] celular       |1        |1
-[generar] reporte             |10       |10
-[mantenedor] puesto           |2        |2
-[mantenedor] producto         |5        |5
+Caso de uso                   |Archivos |Entradas |Tipo de dato elemental|Evaluación
+------------------------------|---------|---------|----------------------|----------
+[pedido] ver                  |         |0        |0                     |
+[Pedido] generar              |         |6        |6                     |
+[Pedido] calificar            |         |2        |2                     |
+[ficha usuario] direccion     |         |2        |2                     |
+[ficha usuario] celular       |         |1        |1                     |
+[generar] reporte             |         |10       |10                    |
+[mantenedor] puesto           |         |2        |2                     |
+[mantenedor] producto         |         |5        |5                     |
 
 ## Salidas externas
 
+Caso de uso                   |Archivos |Salidas  |Tipo de dato elemental|Evaluación
+------------------------------|---------|---------|----------------------|----------
+[pedido] ver                  |         |0        |0                     |
+[Pedido] generar              |         |0        |0                     |
+[Pedido] calificar            |         |0        |0                     |
+[ficha usuario] direccion     |         |0        |0                     |
+[ficha usuario] celular       |         |0        |0                     |
+[generar] reporte             |         |10       |10                    |
+[mantenedor] puesto           |         |0        |0                     |
+[mantenedor] producto         |         |0        |0                     |
+
 ## Consultas
+Caso de uso                   |Archivos |Tipo de dato elemental|Evaluación
+------------------------------|---------|----------------------|----------
+[pedido] ver                  |5        |16                    |Alto
+[Pedido] generar              |0        |0                     |Bajo
+[Pedido] calificar            |1        |5                     |Bajo
+[ficha usuario] direccion     |1        |3                     |Bajo
+[ficha usuario] celular       |1        |3                     |Bajo
+[generar] reporte             |0        |0                     |Bajo
+[mantenedor] puesto           |2        |8                     |Alto
+[mantenedor] producto         |2        |4                     |Promedio
+
+* Con valor Bajo: 5
+* Con valor Promedio: 1
+* Con valor Alto: 2
 
 ## Archivos lógicos internos
 
@@ -41,6 +66,8 @@ Caso de uso                   |Entradas |Tipo de dato elemental
 * Feriantes
 * Pedidos
 * mensajes_alarma
+* Puestos
+* Productos
 
 ## Archivos de interfaz externa
 
