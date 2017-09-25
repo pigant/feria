@@ -4,6 +4,12 @@ Para este proyecto se estimó una cantidad de 9600 kloc lo cual implica, se requ
 
 Se usó el modo Semi encajado dado su nivel de complejidad medio-alto.
 
+MODO | a | b | c | d 
+-----|---|---|---|---
+orgánico | 2.40 | 1.05 | 2.50 | 0.38 
+semi - orgánico | 3.00 | 1.12 | 2.50 | 0.35
+empotrado | 3.60 | 1.20 | 2.50 | 0.33
+
 ## esfuerzo requerdio por el proyecto, personas necesarias por mes
 
 E= a(kloc)^b
@@ -14,7 +20,7 @@ E = 87 persona/mes
 
 ## tiempo requerido para desarrollar el proyectoi, en meses
 
-Tdev = c(E)^b
+Tdev = c(E)^d
 
 Tdev = 2.50(87)^0.35
 
