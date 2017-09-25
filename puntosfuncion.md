@@ -45,20 +45,27 @@ Caso de uso                   |Entradas |Tipo de dato elemental
 ## Archivos de interfaz externa
 
 ## Caracteristicas generales del sistema
-ARACTERÍSTICA |DESCRIPCIÓN
---------------|------------
-Comunicación de datos |	Cuántas facilidades de comunicación hay disponibles para ayudar en el intercambio de información con la aplicación o el sistema?
-Procesamiento distribuido de datos |	Cómo se manejan los datos y las funciones de procesamiento distribuido
-Rendimiento |	Existen requerimientos de velocidad o tiempo de respuesta?
-Configuraciones fuertemente utilizadas |	Cómo de intensivas se utilizan las plataformas hardware donde se ejecuta el sistema
-Frecuencia de transacciones |	Con qué frecuencia se ejecutan las transacciones? Diariamente, semanalmente,…
-Entrada de datos on- line |	Qué porcentaje de la información se ingresa on-line’
-Eficiencia del usuario final |	Aplicación diseñada para maximizar la eficiencia del usuario final
-Actualizaciones Online |	Cuántos Archivos Lógicos Internos se actualizan por una transacción on-line?
-Procesamiento complejo |	Hay procesamientos lógicos o matemáticos intensivos en la aplicación’
-Reusabilidad |	La aplicación se desarrolla para suplir una o muchas de las necesidades de los usuarios?
-Facilidad de instalación |	Qué tan difícil es la instalación y la conversión al nuevo sistema?
-Facilidad de operación |	Cómo de efectivos y/o automatizados deben ser los procedimientos de arranque, parada, backup y restore
-Instalación en distintos lugares |	La aplicación fue concebida para su instalación en múltiples sitios y organizaciones?
-Facilidad de cambio |	La aplicación fue concebida para facilitar los cambios sobre la misma?
+Característica                         |Evaluación
+---------------------------------------|------------
+Comunicación de datos                  | 5
+Procesamiento distribuido de datos     | 3
+Rendimiento                            | 4
+Configuraciones fuertemente utilizadas | 3
+Frecuencia de transacciones            | 5
+Entrada de datos on- line              | 5
+Eficiencia del usuario final           | 3
+Actualizaciones Online                 | 5
+Procesamiento complejo                 | 1
+Reusabilidad                           | 4
+Facilidad de instalación               | 3
+Facilidad de operación                 | 4
+Instalación en distintos lugares       | 2
+Facilidad de cambio                    | 4
+Total                                  |51
+
+![Formula](/imagenes/gsc_formula.png)
+
+Por lo que Vaf = 0.65 + 0.51
+
+Vaf = 1.16
 
