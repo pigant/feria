@@ -2,7 +2,7 @@
 
 Para este proyecto se estimó una cantidad de 9600 kloc lo cual implica, se requieren 7 personas (analistas y programadores) para trabajar en un periodo de 12 meses en donde cada uno recibirá un salario de $600.000 /mes y el cual tendrá un mensual total de $4.200.000/mes, y un coste total anual de $50.400.000. La estimación fue generada por:
 
-Se usó el modo Semi encajado dado su nivel de complejidad medio-alto.
+Se usó el modo Semi encajado o semi orgánico dado su nivel de complejidad medio-alto.
 
 MODO | a | b | c | d 
 -----|---|---|---|---
