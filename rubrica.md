@@ -1,4 +1,4 @@
-# Rubrica
+# Rúbrica
 
 ## 1 Alcance del proyecto
 
