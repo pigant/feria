@@ -6,13 +6,9 @@
 
 
 * [pedido] ver : Muestra lista de pedidos, se selecciona una, muestra información y permite anular
-
 * [pedido] generar : muestra los puestos -> abre un puesto -> busca producto -> agrega a la lista -> quita de la lista -> confirma
-
 * [pedido] calificar : muestra pedidos -> abre un pedido -> comenta -> califica
-
 * [ficha usuario] dirección : entra en perfil -> entra en modificar -> cambia nombre usuario -> cambia dirección -> confirma
-
 * [mantenedor] puesto : Nombre del puesto, número de telefono
 
 ## Entradas externas
@@ -126,14 +122,12 @@ FP = 98 * 1.16
 
 FP = 113.68
 
-** Estimación de esfuerzo
+## Estimación de esfuerzo
 
 Utilizando un lenguaje de 4 generación se estima un tiempo por persona de 5 a 10 horas por punto de función
 
-Siendo el total de puntos de función de 113.68, y si estimamos que por punto de función tendremos 8 horas, el tiempo total a utilizar para el proyecto será de 113.68 x 8, lo cual nos da un tiempo de 910 horas, si consideramos un horario de 45 horas semanales, la cantidad de semanas de trabajo se traducen a 21 semanas, y si llevamos esto a meses nos da un total de 6 meses para una sola persona.
+Siendo el **total de puntos de función de 113.68**, y si **estimamos que por punto de función tendremos 8 horas, el tiempo total a utilizar para el proyecto será de 113.68 x 8**, lo cual nos da un tiempo de **910 horas**, si consideramos un horario de 45 horas semanales, la cantidad de semanas de trabajo se traducen a 21 semanas, y si llevamos esto a meses nos da un total de **6 meses para una sola persona**.
 
-
-113.68 
 
 
 
