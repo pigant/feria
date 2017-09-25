@@ -10,7 +10,7 @@ orgánico | 2.40 | 1.05 | 2.50 | 0.38
 semi - orgánico | 3.00 | 1.12 | 2.50 | 0.35
 empotrado | 3.60 | 1.20 | 2.50 | 0.33
 
-## esfuerzo requerdio por el proyecto, personas necesarias por mes
+## esfuerzo requerido por el proyecto, personas necesarias por mes
 
 E= a(kloc)^bxm(X)
 
