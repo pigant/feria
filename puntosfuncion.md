@@ -105,3 +105,35 @@ Por lo que Vaf = 0.65 + 0.51
 
 Vaf = 1.16
 
+## Puntos de función desajustados
+
+Tipo de componente  |  Bajo  |  Medio  |  Alto  |  Total
+--------------------|--------|---------|--------|--------
+Entrada externa     | 5   x3 |0      x4|3     x6|33
+Salida externa      | 7   x4 |0      x5|1     x7|27
+Consultas           | 5   x3 |1      x4|2     x6|31
+Archivos internos   |   x7   |         |        |7
+Archivos internos   |        |         |        |0
+Total               |        |         |        |98
+
+UFP = 98
+
+## Puntos de función
+
+*FP = UFP x Vaf*
+
+FP = 98 * 1.16
+
+FP = 113.68
+
+** Estimación de esfuerzo
+
+Utilizando un lenguaje de 4 generación se estima un tiempo por persona de 5 a 10 horas por punto de función
+
+Siendo el total de puntos de función de 113.68, y si estimamos que por punto de función tendremos 8 horas, el tiempo total a utilizar para el proyecto será de 113.68 x 8, lo cual nos da un tiempo de 910 horas, si consideramos un horario de 45 horas semanales, la cantidad de semanas de trabajo se traducen a 21 semanas, y si llevamos esto a meses nos da un total de 6 meses para una sola persona.
+
+
+113.68 
+
+
+
