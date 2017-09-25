@@ -12,13 +12,13 @@ empotrado | 3.60 | 1.20 | 2.50 | 0.33
 
 ## esfuerzo requerdio por el proyecto, personas necesarias por mes
 
-E= a(kloc)^b
+E= a(kloc)^bxm(X)
 
-E = 3.0(9600)^1.12
+E = 3.0(9600)^1.12x1000
 
 E = 87 persona/mes
 
-## tiempo requerido para desarrollar el proyectoi, en meses
+## tiempo requerido para desarrollar el proyecto, en meses
 
 Tdev = c(E)^d
 
