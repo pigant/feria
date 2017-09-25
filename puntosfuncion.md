@@ -21,27 +21,36 @@ Para las entradas del sistema.
 
 Caso de uso                   |Archivos |Entradas |Tipo de dato elemental|Evaluación
 ------------------------------|---------|---------|----------------------|----------
-[pedido] ver                  |         |0        |0                     |
-[Pedido] generar              |         |6        |6                     |
-[Pedido] calificar            |         |2        |2                     |
-[ficha usuario] direccion     |         |2        |2                     |
-[ficha usuario] celular       |         |1        |1                     |
-[generar] reporte             |         |10       |10                    |
-[mantenedor] puesto           |         |2        |2                     |
-[mantenedor] producto         |         |5        |5                     |
+[pedido] ver                  |0        |0        |0                     |Baja
+[Pedido] generar              |4        |6        |6                     |Alta
+[Pedido] calificar            |3        |2        |2                     |Alta
+[ficha usuario] direccion     |1        |2        |2                     |Baja
+[ficha usuario] celular       |1        |1        |1                     |Baja
+[generar] reporte             |5        |10       |10                    |Alta
+[mantenedor] puesto           |1        |2        |2                     |Baja
+[mantenedor] producto         |1        |5        |5                     |Baja
+
+* Con valor Bajo: 5
+* Con valor Promedio: 0
+* Con valor Alto: 3
 
 ## Salidas externas
 
 Caso de uso                   |Archivos |Salidas  |Tipo de dato elemental|Evaluación
 ------------------------------|---------|---------|----------------------|----------
-[pedido] ver                  |         |0        |0                     |
-[Pedido] generar              |         |0        |0                     |
-[Pedido] calificar            |         |0        |0                     |
-[ficha usuario] direccion     |         |0        |0                     |
-[ficha usuario] celular       |         |0        |0                     |
-[generar] reporte             |         |10       |10                    |
-[mantenedor] puesto           |         |0        |0                     |
-[mantenedor] producto         |         |0        |0                     |
+[pedido] ver                  |0        |0        |0                     |Baja
+[Pedido] generar              |0        |0        |0                     |Baja
+[Pedido] calificar            |0        |0        |0                     |Baja
+[ficha usuario] direccion     |0        |0        |0                     |Baja
+[ficha usuario] celular       |0        |0        |0                     |Baja
+[generar] reporte             |5        |10       |10                    |Alta
+[mantenedor] puesto           |0        |0        |0                     |Baja
+[mantenedor] producto         |0        |0        |0                     |Baja
+
+* Con valor Bajo: 7
+* Con valor Promedio: 0
+* Con valor Alto: 1
+
 
 ## Consultas
 Caso de uso                   |Archivos |Tipo de dato elemental|Evaluación
