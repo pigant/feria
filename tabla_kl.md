@@ -42,7 +42,7 @@ CosteE = 2 * 600.000
 
 CosteE = 1.200.000 /mes
 
-CosteE Anual = 1.200.000 x 6 = $2.400.000.-
+CosteE 6 meses = 1.200.000 x 6 = $7.200.000.-
 
 ## cantidad total líneas de código (kloc)
 
