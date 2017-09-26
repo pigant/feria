@@ -1,6 +1,6 @@
 # Estimación de costes usando modelo cocomo
 
-Para este proyecto se estimó una cantidad de 2220 kloc lo cual implica, se requieren 2 personas (analistas y programadores) para trabajar en un periodo de 6 meses en donde cada uno recibirá un salario de $600.000 /mes y el cual tendrá un coste total de $7.200.000 por 6 meses de desarrollo. La estimación fue generada por:
+Para este proyecto se estimó una cantidad de 2220 kloc lo cual implica, se requieren 2 personas (analistas y programadores) para trabajar en un periodo de 6 meses en donde cada uno recibirá un salario de $600.000 /mes líquido, $1.500.000 mensual con AFP y Salud, el cual tendrá un coste total de $9.000.000 por 6 meses de desarrollo. La estimación fue generada por:
 
 Se usó el modo Semi encajado o semi orgánico dado su nivel de complejidad medio-alto.
 
